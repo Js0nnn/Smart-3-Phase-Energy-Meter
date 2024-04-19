@@ -51,5 +51,3 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 - Inspired by the Blynk IoT platform
 
 ---
-
-Feel free to customize the README with additional details, such as wiring diagrams, screenshots, or specific instructions for setting up the hardware components.
