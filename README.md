@@ -46,8 +46,8 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 
 ## Credits
 
-- Developed by [Your Name]
-- Based on the EmonLib library by [Trystan Lea]
+- Developed by Jaison Edward B.
+- Based on the EmonLib library by glynhudson, glyn.hudson@openenergymonitor.org, toonnelissen toon@appsaloon.be.
 - Inspired by the Blynk IoT platform
 
 ---
