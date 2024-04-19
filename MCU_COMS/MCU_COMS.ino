@@ -3,9 +3,9 @@
 #include <Encoder.h>
 #include <SoftwareSerial.h>
 
-#define BLYNK_TEMPLATE_ID "TMPL3KeuVp1kT"
+#define BLYNK_TEMPLATE_ID "**********"
 #define BLYNK_TEMPLATE_NAME "Smart Energy Meter"
-#define BLYNK_AUTH_TOKEN "Wwv3-bYqQeLf8kLKsQHuZtDSSHdDBP2F"
+#define BLYNK_AUTH_TOKEN "*************"
 
 
 #define BLYNK_PRINT Serial
@@ -24,15 +24,15 @@ SoftwareSerial MCU(D3,D4);
 
 #define BLYNK_TEMPLATE_ID "TMPL3KeuVp1kT"
 #define BLYNK_TEMPLATE_NAME "Smart Energy Meter"
-#define BLYNK_AUTH_TOKEN "Wwv3-bYqQeLf8kLKsQHuZtDSSHdDBP2F"
+#define BLYNK_AUTH_TOKEN "*********************F"
 
 
 BlynkTimer timer;
 BlynkTimer timer2;
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Redmi Note 7 Pro_9408";
-char pass[] = "12345678";
+char ssid[] = "*****************";
+char pass[] = "**************8";
 
 
 char c;
